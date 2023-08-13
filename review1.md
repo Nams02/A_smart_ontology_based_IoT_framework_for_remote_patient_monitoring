@@ -1,8 +1,4 @@
-[[Sharma_et+al_SmartOntologybasedIotFrameworkRemote_2021]]
-
 # [A smart ontology-based IoT framework for remote patient monitoring](https://doi.org/10.1016/j.bspc.2021.102717)
-
-## [[Nonita Sharma]]; [[Monika Mangla]]; [[Sachi Nandan Mohanty]] et al.
 
 ## Abstract
 The Internet of Things (IoT) is the most promising technology in health technology systems. IoT-based systems ensure continuous monitoring in indoor and outdoor settings. Remote monitoring has revolutionized healthcare by connecting remote and hard-to-reach regions. Specifically, during this COVID-19 pandemic, it is imperative to have a remote monitoring system to assess patients remotely and curb its spread prematurely. This paper pro­ poses a framework that provides the updated information of the Corona Patients in the vicinity and thus provides identifiable data for remote monitoring of locality cohorts. The proposed model is IoT-based remote access and an alarm-enabled bio wearable sensor system for early detection of COVID-19 based on ontology method using sensory 1D Biomedical Signals such as ECG, PPG, temperature, and accelerometer. The proposed ontology-based remote monitoring system analyzes the challenges of encompassing security and privacy issues. The proposed model is also simulated using cooza simulator. ==During the simulation, it is observed that the proposed model achieves an accuracy of 96.33 %, which establishes the efficacy of the proposed model==. The effectiveness of the proposed model is also strengthened by efficient power consumption.
