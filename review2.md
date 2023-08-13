@@ -1,8 +1,4 @@
-[[Puri_et+al_ArtificialIntelligencepoweredDecentralizedFrameworkInternet_2021]]
-
 # [Artificial intelligence‐powered decentralized framework for Internet of Things in Healthcare 4.0](https://doi.org/10.1002/ett.4245)
-
-## [[Vikram Puri]]; [[Aman Kataria]]; [[Vishal Sharma]]
 
 ## Abstract
 Remote patient monitoring and data management have gained much popularity in recent years because of their enhanced access to low-cost healthcare services. A cloud-based healthcare system provides numerous solutions for collecting patient data and offers on-demand well-managed reports to patients and healthcare providers. However, it equally suffers from single-point failure, security, privacy, and non-transparency issues with the data, impacting the continuity of the system. To resolve such concerns, this article proposes an artificial intelligence (AI)-enabled decentralized healthcare framework that accesses and authenticates Internet of Things (IoT) devices and create trust and transparency in patient healthcare records (PHR). ==The mechanism is based on the AI-enabled smart contracts== and the conceptualization of the public blockchain network. Alongside this, the framework identifies the malicious IoT nodes in the system. ==The experimental analyses are performed on the real-time test environment==, and ==significant improvements are suggested in terms of device energy consumption==, data request time, throughput, average latency, and transaction fee.
